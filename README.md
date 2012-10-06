@@ -1,4 +1,4 @@
 Welcome
 ===
 
-My web page.
+This project is being created to work with several features provided by Github.
