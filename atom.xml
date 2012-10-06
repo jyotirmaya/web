@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Welcome to Jyotirmaya.com]]></title>
+  <link href="http://jyotirmaya.github.com/web/atom.xml" rel="self"/>
+  <link href="http://jyotirmaya.github.com/web/"/>
+  <updated>2012-10-06T12:29:03-04:00</updated>
+  <id>http://jyotirmaya.github.com/web/</id>
+  <author>
+    <name><![CDATA[Jyotirmaya Nanda]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
